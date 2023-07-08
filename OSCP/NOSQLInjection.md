@@ -1,0 +1,4 @@
+- https://github.com/Charlie-belmer/nosqli
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection
+- https://blog.scrt.ch/2013/03/24/mongodb-0-day-ssji-to-rce/
+- HackTheBox: Shoppy

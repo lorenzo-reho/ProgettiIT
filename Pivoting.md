@@ -1,0 +1,1 @@
+https://pentest.blog/explore-hidden-networks-with-double-pivoting/
